@@ -1,0 +1,19 @@
+{
+  "name": "tc-eslint-config",
+  "version": "0.0.1",
+  "description": "Standard TC sharable config for eslint, an extension of airbnb's configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conversation/tc-eslint-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conversation/tc-eslint-config/issues"
+  },
+  "homepage": "https://github.com/conversation/tc-eslint-config#readme"
+}
