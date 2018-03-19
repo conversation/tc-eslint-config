@@ -1,6 +1,6 @@
 {
   "name": "tc-eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Standard TC sharable config for eslint, an extension of airbnb's configuration",
   "main": "index.js",
   "scripts": {
