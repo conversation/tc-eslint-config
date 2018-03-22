@@ -6,6 +6,6 @@ module.exports = {
     "import/no-unresolved": "off",
     "max-len": ["error", { "code": 120 }],
     "no-undef": "off",
-    "quotes": "off",
+    "quotes": ["error", "double"],
   }
 }
