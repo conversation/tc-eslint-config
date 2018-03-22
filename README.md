@@ -7,7 +7,7 @@ Standard sharable TC extension of airbnb's excellent eslint configuration.
 Installing this package will also install the appropriate version of eslint and the base airbnb configuration to match the configured rules.
 
 ```
-npm i -D conversation/tc-eslint-config#0.0.2
+npm i -D conversation/tc-eslint-config#0.0.3
 ```
 
 Create an `.eslintrc.js` in the root directory of the project you are intending to use eslint with, insert the following:
