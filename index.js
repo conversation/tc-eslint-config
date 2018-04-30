@@ -1,6 +1,7 @@
 module.exports = {
   "extends": "airbnb",
   "rules": {
+    "comma-dangle": "off",
     "import/extensions": "off",
     "import/no-extraneous-dependencies": "off",
     "import/no-unresolved": "off",
