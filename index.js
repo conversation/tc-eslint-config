@@ -1,5 +1,9 @@
 module.exports = {
   "extends": "airbnb",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "allowImportExportEverywhere": true
+  },
   "rules": {
     "comma-dangle": ["error", {
       "arrays": "always-multiline",
