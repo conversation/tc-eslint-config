@@ -8,6 +8,9 @@ module.exports = {
       "exports": "never",
       "functions": "ignore"
     }],
+    "no-underscore-dangle": ["error", {
+      "allowAfterThis": true,
+    }],
     "import/extensions": "off",
     "import/no-extraneous-dependencies": "off",
     "import/no-unresolved": "off",
