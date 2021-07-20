@@ -20,6 +20,7 @@ module.exports = {
     "max-len": ["error", { "code": 120 }],
     "no-extra-parens": ["error", "all", { "nestedBinaryExpressions": false, "ignoreJSX": "multi-line" }],
     "no-undef": "off",
+    "object-curly-newline": 0,
     "quotes": ["error", "double"],
   }
 }
