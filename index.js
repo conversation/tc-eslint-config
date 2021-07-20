@@ -12,6 +12,7 @@ module.exports = {
       "exports": "never",
       "functions": "ignore"
     }],
+    "function-paren-newline": 0,
     "import/extensions": "off",
     "import/no-extraneous-dependencies": "off",
     "import/no-unresolved": "off",
